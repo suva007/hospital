@@ -1,5 +1,5 @@
 # hospital
-automated hospital desktop project
+ - automated hospital desktop project
 
-working explained in amc.key(slides)
+ - working explained in amc.key(slides)
 
